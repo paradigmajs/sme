@@ -1,0 +1,38 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    width: 100%;
+    background-color: #0088a2;
+    color: white;
+    text-align: center;
+}
+.up_content h2{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 90px;
+}
+.social{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+   
+    margin: auto;
+    margin-top: -2%;
+}
+.social img{
+    width: 50px;
+}
+
+.down_content{
+    display: flex;
+    justify-content: space-around;
+}
+.block{
+    width: 30%;
+}
+.block h5{
+    font-size: 26px;
+    font-weight: normal;
+}
